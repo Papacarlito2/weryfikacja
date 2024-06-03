@@ -1,0 +1,20 @@
+{
+  "name": "cypress",
+  "version": "1.0.0",
+  "description": "automatyzacja testów w cypress",
+  "main": "index.js",
+  "scripts": {
+    "weryfikacja": "cypress run --spec cypress/e2e/weryfikacjaWalidacji.cy.js"
+  },
+  "keywords": [
+    "automatyzacja",
+    "cypress",
+    "testy"
+  ],
+  "author": "Patryk Czarnecki",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.9.0",
+    "cypress-dark": "^1.8.3"
+  }
+}

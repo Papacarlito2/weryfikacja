@@ -1,0 +1,7 @@
+{
+    "wrongEmail": "testowanie@@gmail.com",
+    "correctEmail": "testowanie3@gmail.com",
+    "longEmail": "qwertyuioplkjhgfdsazxcvbnmkjhgfdsdddddcddewdefrfsdafdsafsafefesffdqwertyuiopasddfghcvsayrkckslaksqwertyuioplkjhgfdsazxcvbnmkjhgfds@gmail.com",
+    "wrongText": "1$%^",
+    "longText": "dsaaaaaaaafdsafdasfasjdfhlsakfhdjlsakfhldskafkhjlsjfkdsaf"
+}   
